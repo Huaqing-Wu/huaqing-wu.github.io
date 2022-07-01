@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and Zhu Han | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/and-zhu-han/</link>
-      <atom:link href="/author/and-zhu-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/and-zhu-han/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/and-zhu-han/index.xml" rel="self" type="application/rss+xml" />
     <description>and Zhu Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
       <title>and Zhu Han</title>
-      <link>/author/and-zhu-han/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/and-zhu-han/</link>
     </image>
     
     <item>
       <title>Social Networking-Driven Caching</title>
-      <link>/publication/2021_book_chapter/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_chapter/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_book_chapter/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_chapter/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource allocation for wireless caching in socially-enabled D2D communications</title>
-      <link>/publication/whq_icc2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Wireless distributed storage in socially enabled D2D communications</title>
-      <link>/publication/whq_ieee_access/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_ieee_access/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_ieee_access/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_ieee_access/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

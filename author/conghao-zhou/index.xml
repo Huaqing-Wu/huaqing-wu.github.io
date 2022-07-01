@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conghao Zhou | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/conghao-zhou/</link>
-      <atom:link href="/author/conghao-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/conghao-zhou/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/conghao-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Conghao Zhou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
       <title>Conghao Zhou</title>
-      <link>/author/conghao-zhou/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/conghao-zhou/</link>
     </image>
     
     <item>
       <title>Adaptive access mode selection in space-ground integrated vehicular networks</title>
-      <link>/publication/2021_conghao_globecom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_conghao_globecom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning-based cache placement and content delivery for satellite-terrestrial integrated networks</title>
-      <link>/publication/2021_mingcheng_globecom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_mingcheng_globecom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning-based joint resource slicing and scheduling in space-terrestrial integrated vehicular networks</title>
-      <link>/publication/2021_whq_jcin/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_whq_jcin/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_whq_jcin/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_whq_jcin/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -86,9 +86,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>AI-native network slicing for 6G networks</title>
-      <link>/publication/2021_wen_wcm/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_wen_wcm/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -110,9 +110,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Load and mobility-aware cooperative content delivery in SAG integrated vehicular networks</title>
-      <link>/publication/2021_huaqing_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_huaqing_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -134,9 +134,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Service-oriented dynamic resource slicing and optimization for space-air-ground integrated vehicular networks</title>
-      <link>/publication/2021_feng_tits/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_feng_tits/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -158,9 +158,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Optimal UAV caching and trajectory in aerial-assisted vehicular networks: A learning-based approach</title>
-      <link>/publication/whq_jsac_2020/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_jsac_2020/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -182,9 +182,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource management in space-air-ground integrated vehicular networks: SDN control and AI algorithm Design</title>
-      <link>/publication/whq_wcm_sag/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcm_sag/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_wcm_sag/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcm_sag/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -206,9 +206,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Dynamic spectrum slicing and optimization in SAG integrated vehicular networks</title>
-      <link>/publication/feng_vtcfall_2020/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/feng_vtcfall_2020/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -230,9 +230,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Drone-cell trajectory planning and resource allocation for highly mobile networks: A hierarchical DRL approach</title>
-      <link>/publication/weisen_iot/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/weisen_iot/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/weisen_iot/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/weisen_iot/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

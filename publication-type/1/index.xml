@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Huaqing Wu&#39;s Homepage</title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/publication-type/1/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication-type/1/</link>
     </image>
     
     <item>
       <title>Adaptive access mode selection in space-ground integrated vehicular networks</title>
-      <link>/publication/2021_conghao_globecom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_conghao_globecom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning-based cache placement and content delivery for satellite-terrestrial integrated networks</title>
-      <link>/publication/2021_mingcheng_globecom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_mingcheng_globecom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Cooperative edge-cloud caching for real-time sensing big data search in vehicular network</title>
-      <link>/publication/2021_mingliu_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingliu_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_mingliu_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingliu_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -86,9 +86,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Joint cache placement and content delivery in satellite-terrestrial integrated C-RANs</title>
-      <link>/publication/2021_dairu_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_dairu_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_dairu_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_dairu_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -110,9 +110,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Load and mobility-aware cooperative content delivery in SAG integrated vehicular networks</title>
-      <link>/publication/2021_huaqing_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_huaqing_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -134,9 +134,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Multi-dimensional resource allocation for diverse safety message transmissions in vehicular network</title>
-      <link>/publication/jiayin_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/jiayin_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -158,9 +158,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Throughput analysis with dynamic spectrum access control in space-air-ground integrated network</title>
-      <link>/publication/2021_chenxi_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_chenxi_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -182,9 +182,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Dynamic spectrum slicing and optimization in SAG integrated vehicular networks</title>
-      <link>/publication/feng_vtcfall_2020/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/feng_vtcfall_2020/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -206,9 +206,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Proactive link adaptation for marine internet of things in TV white space</title>
-      <link>/publication/2020_xu2020proactive/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2020_xu2020proactive/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_xu2020proactive/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2020_xu2020proactive/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -230,9 +230,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Joint caching and trajectory design for cache-enabled UAV in vehicular networks</title>
-      <link>/publication/whq_wcsp_2019/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_wcsp_2019/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -254,9 +254,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Pilot spoofing attack detection and downlink precoding in massive MIMO systems</title>
-      <link>/publication/wang2019pilot/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wang2019pilot/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -278,9 +278,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Online UAV scheduling towards throughput QoS guarantee for dynamic IoVs</title>
-      <link>/publication/feng_icc_2019/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/feng_icc_2019/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -302,9 +302,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Matching-based content caching in heterogeneous vehicular networks</title>
-      <link>/publication/whq_globecom2018/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2018/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_globecom2018/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2018/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -326,9 +326,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Reinforcement learning policy for adaptive edge caching in heterogeneous vehicular network</title>
-      <link>/publication/chen2018reinforcement/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/chen2018reinforcement/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/chen2018reinforcement/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/chen2018reinforcement/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -350,9 +350,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>ViFi: Vehicle-to-vehicle assisted traffic offloading via roadside WiFi networks</title>
-      <link>/publication/vifi_chao/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/vifi_chao/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/vifi_chao/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/vifi_chao/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -374,9 +374,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Tradeoff of content sharing efficiency and secure transmission in coded caching systems</title>
-      <link>/publication/whq_icc2018/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2018/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2018/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -398,9 +398,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Dynamic resource matching for socially cooperative caching in IoT networking</title>
-      <link>/publication/whq_globecom2017/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_globecom2017/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2017/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -422,9 +422,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Hypergraph based three-dimensional matching in wireless distributed storage over D2D links</title>
-      <link>/publication/whq_dsp2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_dsp2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_dsp2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_dsp2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -446,9 +446,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Performance analysis for wireless distributed storage via D2D links</title>
-      <link>/publication/whq_vtcfall2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcfall2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_vtcfall2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcfall2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -470,9 +470,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource allocation for wireless caching in socially-enabled D2D communications</title>
-      <link>/publication/whq_icc2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -494,9 +494,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource allocation with cooperative jamming in socially interactive secure D2D underlay</title>
-      <link>/publication/whq_vtcspring2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcspring2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_vtcspring2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcspring2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -518,9 +518,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Secrecy-oriented resource sharing for cellular device-to-device underlay</title>
-      <link>/publication/whq_globecom2015/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_globecom2015/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2015/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -542,9 +542,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Secrecy-oriented partner selection based on social trust in device-to-device communications</title>
-      <link>/publication/whq_icc2015/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2015/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2015/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
