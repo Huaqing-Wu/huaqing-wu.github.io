@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Song Guo | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/song-guo/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/song-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/song-guo/</link>
+      <atom:link href="/author/song-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Song Guo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
       <title>Song Guo</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/song-guo/</link>
+      <link>/author/song-guo/</link>
     </image>
     
     <item>
       <title>Proactive link adaptation for marine internet of things in TV white space</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2020_xu2020proactive/</link>
+      <link>/publication/2020_xu2020proactive/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2020_xu2020proactive/</guid>
+      <guid>/publication/2020_xu2020proactive/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

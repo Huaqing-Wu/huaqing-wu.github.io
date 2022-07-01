@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ning Zhang | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/ning-zhang/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/ning-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ning-zhang/</link>
+      <atom:link href="/author/ning-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ning Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
       <title>Ning Zhang</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/ning-zhang/</link>
+      <link>/author/ning-zhang/</link>
     </image>
     
     <item>
       <title>AI-native network slicing for 6G networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</link>
+      <link>/publication/2021_wen_wcm/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</guid>
+      <guid>/publication/2021_wen_wcm/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Load and mobility-aware cooperative content delivery in SAG integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</link>
+      <link>/publication/2021_huaqing_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</guid>
+      <guid>/publication/2021_huaqing_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

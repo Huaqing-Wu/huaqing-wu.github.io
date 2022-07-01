@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qihui Wu | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/qihui-wu/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/qihui-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/qihui-wu/</link>
+      <atom:link href="/author/qihui-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Qihui Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu6bdde7ad990300711e495eeac99fb98f_13595_512x512_fill_lanczos_center_2.png</url>
       <title>Qihui Wu</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/qihui-wu/</link>
+      <link>/author/qihui-wu/</link>
     </image>
     
     <item>
       <title>Pilot spoofing attack detection and downlink precoding in massive MIMO systems</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</link>
+      <link>/publication/wang2019pilot/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</guid>
+      <guid>/publication/wang2019pilot/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
