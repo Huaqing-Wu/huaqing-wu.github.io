@@ -1,791 +1,475 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication-type/1/</loc>
+    <loc>/author/__huaqing-wu__/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication-type/2/</loc>
+  </url><url>
+    <loc>/publication-type/1/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/__huaqing-wu__/</loc>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</loc>
+  </url><url>
+    <loc>/publication/2021_conghao_globecom/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-xuemin-shen/</loc>
+  </url><url>
+    <loc>/author/and-xuemin-shen/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/authors/</loc>
+  </url><url>
+    <loc>/authors/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/conghao-zhou/</loc>
+  </url><url>
+    <loc>/author/conghao-zhou/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_haixia_wcm/</loc>
+  </url><url>
+    <loc>/publication/2021_haixia_wcm/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/haixia-peng/</loc>
+  </url><url>
+    <loc>/author/haixia-peng/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/</loc>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/jiayin-chen/</loc>
+  </url><url>
+    <loc>/author/jiayin-chen/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/junling-li/</loc>
+  </url><url>
+    <loc>/author/junling-li/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</loc>
+  </url><url>
+    <loc>/publication/2021_mingcheng_globecom/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_whq_jcin/</loc>
+  </url><url>
+    <loc>/publication/2021_whq_jcin/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/mingcheng-he/</loc>
+  </url><url>
+    <loc>/author/mingcheng-he/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/nan-cheng/</loc>
+  </url><url>
+    <loc>/author/nan-cheng/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication_types/</loc>
+  </url><url>
+    <loc>/publication_types/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/</loc>
+  </url><url>
+    <loc>/publication/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/tag/source-themes/</loc>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/tags/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/wen-wu/</loc>
+  </url><url>
+    <loc>/author/wen-wu/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication-type/5/</loc>
+  </url><url>
+    <loc>/publication-type/5/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication-type/6/</loc>
+  </url><url>
+    <loc>/publication-type/6/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</loc>
+  </url><url>
+    <loc>/publication/2021_wen_wcm/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-weihua-zhuang/</loc>
+  </url><url>
+    <loc>/author/and-weihua-zhuang/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-zhu-han/</loc>
+  </url><url>
+    <loc>/author/and-zhu-han/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_yongheng_tpds/</loc>
+  </url><url>
+    <loc>/publication/2021_yongheng_tpds/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/cailian-chen/</loc>
+  </url><url>
+    <loc>/author/cailian-chen/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/dairu-han/</loc>
+  </url><url>
+    <loc>/author/dairu-han/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/dongxiao-liu/</loc>
+  </url><url>
+    <loc>/author/dongxiao-liu/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingyan_tmc/</loc>
+  </url><url>
+    <loc>/publication/2021_mingyan_tmc/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_dongxiao_tits/</loc>
+  </url><url>
+    <loc>/publication/2021_dongxiao_tits/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/feng-lyu/</loc>
+  </url><url>
+    <loc>/author/feng-lyu/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/haibo-zhou/</loc>
+  </url><url>
+    <loc>/author/haibo-zhou/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/jianbing-ni/</loc>
+  </url><url>
+    <loc>/author/jianbing-ni/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_dairu_iot/</loc>
+  </url><url>
+    <loc>/publication/2021_dairu_iot/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/ju-ren/</loc>
+  </url><url>
+    <loc>/author/ju-ren/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/kuo-chun-tsai/</loc>
+  </url><url>
+    <loc>/author/kuo-chun-tsai/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/li-wang/</loc>
+  </url><url>
+    <loc>/author/li-wang/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/lianming-xu/</loc>
+  </url><url>
+    <loc>/author/lianming-xu/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/mingyan-li/</loc>
+  </url><url>
+    <loc>/author/mingyan-li/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_springer/</loc>
+  </url><url>
+    <loc>/publication/2021_book_springer/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/mushu-li/</loc>
+  </url><url>
+    <loc>/author/mushu-li/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/ning-zhang/</loc>
+  </url><url>
+    <loc>/author/ning-zhang/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/peng-yang/</loc>
+  </url><url>
+    <loc>/author/peng-yang/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/qihao-li/</loc>
+  </url><url>
+    <loc>/author/qihao-li/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_chapter/</loc>
+  </url><url>
+    <loc>/publication/2021_book_chapter/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_jiayin_icc_2021/</loc>
+  </url><url>
+    <loc>/publication/2021_jiayin_icc_2021/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/wenhe-liao/</loc>
+  </url><url>
+    <loc>/author/wenhe-liao/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/xinping-guan/</loc>
+  </url><url>
+    <loc>/author/xinping-guan/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/xuemin-shen/</loc>
+  </url><url>
+    <loc>/author/xuemin-shen/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yaoxue-zhang/</loc>
+  </url><url>
+    <loc>/author/yaoxue-zhang/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yongheng-deng/</loc>
+  </url><url>
+    <loc>/author/yongheng-deng/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yuezhi-zhou/</loc>
+  </url><url>
+    <loc>/author/yuezhi-zhou/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/chenxi-li/</loc>
+  </url><url>
+    <loc>/author/chenxi-li/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingliu_icc_2021/</loc>
+  </url><url>
+    <loc>/publication/2021_mingliu_icc_2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/deshi-li/</loc>
+  </url><url>
+    <loc>/author/deshi-li/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_engineering/</loc>
+  </url><url>
+    <loc>/publication/2021_chenxi_engineering/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_dairu_icc_2021/</loc>
+  </url><url>
+    <loc>/publication/2021_dairu_icc_2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/lei-guan/</loc>
+  </url><url>
+    <loc>/author/lei-guan/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</loc>
+  </url><url>
+    <loc>/publication/2021_huaqing_icc_2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/mingliu-liu/</loc>
+  </url><url>
+    <loc>/author/mingliu-liu/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_icc_2021/</loc>
+  </url><url>
+    <loc>/publication/jiayin_icc_2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_icc_2021/</loc>
+  </url><url>
+    <loc>/publication/2021_chenxi_icc_2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yue-zhao/</loc>
+  </url><url>
+    <loc>/author/yue-zhao/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/zan-li/</loc>
+  </url><url>
+    <loc>/author/zan-li/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</loc>
+  </url><url>
+    <loc>/publication/2021_feng_tits/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_li2021sfc/</loc>
+  </url><url>
+    <loc>/publication/2021_li2021sfc/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/shan-zhang/</loc>
+  </url><url>
+    <loc>/author/shan-zhang/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/weisen-shi/</loc>
+  </url><url>
+    <loc>/author/weisen-shi/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-conghao-zhou/</loc>
+  </url><url>
+    <loc>/author/and-conghao-zhou/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</loc>
+  </url><url>
+    <loc>/publication/whq_jsac_2020/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcm_sag/</loc>
+  </url><url>
+    <loc>/publication/whq_wcm_sag/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2021_xuemin4space/</loc>
+  </url><url>
+    <loc>/publication/2021_xuemin4space/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/wei-quan/</loc>
+  </url><url>
+    <loc>/author/wei-quan/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/weihua-zhuang/</loc>
+  </url><url>
+    <loc>/author/weihua-zhuang/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/wenchao-xu/</loc>
+  </url><url>
+    <loc>/author/wenchao-xu/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/mingyan_tii/</loc>
+  </url><url>
+    <loc>/publication/mingyan_tii/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_twc_2020/</loc>
+  </url><url>
+    <loc>/publication/whq_twc_2020/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</loc>
+  </url><url>
+    <loc>/publication/feng_vtcfall_2020/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_tvt_2020/</loc>
+  </url><url>
+    <loc>/publication/jiayin_tvt_2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/weisen_iot/</loc>
+  </url><url>
+    <loc>/publication/weisen_iot/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/2020_xu2020proactive/</loc>
+  </url><url>
+    <loc>/publication/2020_xu2020proactive/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/song-guo/</loc>
+  </url><url>
+    <loc>/author/song-guo/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/tingting-yang/</loc>
+  </url><url>
+    <loc>/author/tingting-yang/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/cheng2020comprehensive/</loc>
+  </url><url>
+    <loc>/publication/cheng2020comprehensive/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-bo-bai/</loc>
+  </url><url>
+    <loc>/author/and-bo-bai/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/qiang-ye/</loc>
+  </url><url>
+    <loc>/author/qiang-ye/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</loc>
+  </url><url>
+    <loc>/publication/whq_wcsp_2019/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</loc>
+  </url><url>
+    <loc>/publication/wang2019pilot/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/qihui-wu/</loc>
+  </url><url>
+    <loc>/author/qihui-wu/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/wei-wang/</loc>
+  </url><url>
+    <loc>/author/wei-wang/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/zhisheng-yin/</loc>
+  </url><url>
+    <loc>/author/zhisheng-yin/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</loc>
+  </url><url>
+    <loc>/publication/feng_icc_2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/xu2019intelligent/</loc>
+  </url><url>
+    <loc>/publication/xu2019intelligent/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2018/</loc>
+  </url><url>
+    <loc>/publication/whq_globecom2018/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/chen2018reinforcement/</loc>
+  </url><url>
+    <loc>/publication/chen2018reinforcement/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/vifi_chao/</loc>
+  </url><url>
+    <loc>/publication/vifi_chao/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-h.-vincent-poor/</loc>
+  </url><url>
+    <loc>/author/and-h.-vincent-poor/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2018/</loc>
+  </url><url>
+    <loc>/publication/whq_icc2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yinan-ding/</loc>
+  </url><url>
+    <loc>/author/yinan-ding/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_twc_2017/</loc>
+  </url><url>
+    <loc>/publication/whq_twc_2017/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/ping-zhang/</loc>
+  </url><url>
+    <loc>/author/ping-zhang/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/zhu-han/</loc>
+  </url><url>
+    <loc>/author/zhu-han/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2017/</loc>
+  </url><url>
+    <loc>/publication/whq_globecom2017/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication-type/8/</loc>
+  </url><url>
+    <loc>/publication-type/8/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-qing-wei/</loc>
+  </url><url>
+    <loc>/author/and-qing-wei/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/mei-song/</loc>
+  </url><url>
+    <loc>/author/mei-song/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/cn107155197a/</loc>
+  </url><url>
+    <loc>/publication/cn107155197a/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yi-man/</loc>
+  </url><url>
+    <loc>/author/yi-man/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-gordon-l.-stuber/</loc>
+  </url><url>
+    <loc>/author/and-gordon-l.-stuber/</loc>
     <lastmod>2017-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_tvt_security/</loc>
+  </url><url>
+    <loc>/publication/whq_tvt_security/</loc>
     <lastmod>2017-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/huan-tang/</loc>
+  </url><url>
+    <loc>/author/huan-tang/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_tvt_fading/</loc>
+  </url><url>
+    <loc>/publication/whq_tvt_fading/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/cn106162887b/</loc>
+  </url><url>
+    <loc>/publication/cn106162887b/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-xiaojun-wang/</loc>
+  </url><url>
+    <loc>/author/and-xiaojun-wang/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yang-liu/</loc>
+  </url><url>
+    <loc>/author/yang-liu/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yinglei-teng/</loc>
+  </url><url>
+    <loc>/author/yinglei-teng/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-__huaqing-wu__/</loc>
+  </url><url>
+    <loc>/author/and-__huaqing-wu__/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</loc>
+  </url><url>
+    <loc>/publication/cn105992124b/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_dsp2016/</loc>
+  </url><url>
+    <loc>/publication/whq_dsp2016/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/tiansheng-sun/</loc>
+  </url><url>
+    <loc>/author/tiansheng-sun/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/wei-chen/</loc>
+  </url><url>
+    <loc>/author/wei-chen/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/xiaojun-wang/</loc>
+  </url><url>
+    <loc>/author/xiaojun-wang/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yifei-wei/</loc>
+  </url><url>
+    <loc>/author/yifei-wei/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yong-zhang/</loc>
+  </url><url>
+    <loc>/author/yong-zhang/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-antti-yla-jaaski/</loc>
+  </url><url>
+    <loc>/author/and-antti-yla-jaaski/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2016/</loc>
+  </url><url>
+    <loc>/publication/whq_jsac_2016/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcfall2016/</loc>
+  </url><url>
+    <loc>/publication/whq_vtcfall2016/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/shuangshuang-ma/</loc>
+  </url><url>
+    <loc>/author/shuangshuang-ma/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</loc>
+  </url><url>
+    <loc>/publication/whq_icc2016/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcspring2016/</loc>
+  </url><url>
+    <loc>/publication/whq_vtcspring2016/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/tommy-svensson/</loc>
+  </url><url>
+    <loc>/author/tommy-svensson/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_ieee_access/</loc>
+  </url><url>
+    <loc>/publication/whq_ieee_access/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/mugen-peng/</loc>
+  </url><url>
+    <loc>/author/mugen-peng/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2015/</loc>
+  </url><url>
+    <loc>/publication/whq_globecom2015/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-kwang-cheng-chen/</loc>
+  </url><url>
+    <loc>/author/and-kwang-cheng-chen/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_ett/</loc>
+  </url><url>
+    <loc>/publication/whq_ett/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/li-wang-and-__huaqing-wu__/</loc>
+  </url><url>
+    <loc>/author/li-wang-and-__huaqing-wu__/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_magazine/</loc>
+  </url><url>
+    <loc>/publication/whq_magazine/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/cn104918238b/</loc>
+  </url><url>
+    <loc>/publication/cn104918238b/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-tiansheng-sun/</loc>
+  </url><url>
+    <loc>/author/and-tiansheng-sun/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/chenhui-du/</loc>
+  </url><url>
+    <loc>/author/chenhui-du/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/luke-zhang/</loc>
+  </url><url>
+    <loc>/author/luke-zhang/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/ningning-liu/</loc>
+  </url><url>
+    <loc>/author/ningning-liu/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/yue-ma/</loc>
+  </url><url>
+    <loc>/author/yue-ma/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-yu-cheng/</loc>
+  </url><url>
+    <loc>/author/and-yu-cheng/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/chunyan-cao/</loc>
+  </url><url>
+    <loc>/author/chunyan-cao/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/lu-liu/</loc>
+  </url><url>
+    <loc>/author/lu-liu/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2015/</loc>
+  </url><url>
+    <loc>/publication/whq_icc2015/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_comcom/</loc>
+  </url><url>
+    <loc>/publication/whq_comcom/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/and-fei-tian/</loc>
+  </url><url>
+    <loc>/author/and-fei-tian/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/cn104254130b/</loc>
+  </url><url>
+    <loc>/publication/cn104254130b/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/publication/whq_letter/</loc>
+  </url><url>
+    <loc>/publication/whq_letter/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/author/huaqing-wu/</loc>
+  </url><url>
+    <loc>/post/</loc>
+  </url><url>
+    <loc>/talk/</loc>
   </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/author/huaqing-wu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ece.uwaterloo.ca/~h272wu/talk/</loc>
-  </url>
-  
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feng Lyu | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/feng-lyu/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/feng-lyu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/feng-lyu/</link>
+      <atom:link href="/author/feng-lyu/index.xml" rel="self" type="application/rss+xml" />
     <description>Feng Lyu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_3.png</url>
       <title>Feng Lyu</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/feng-lyu/</link>
+      <link>/author/feng-lyu/</link>
     </image>
     
     <item>
       <title>AUCTION: Automated and quality-aware client selection framework for efficient federated learning</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_yongheng_tpds/</link>
+      <link>/publication/2021_yongheng_tpds/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_yongheng_tpds/</guid>
+      <guid>/publication/2021_yongheng_tpds/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Mobile edge caching in heterogeneous vehicular network</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_springer/</link>
+      <link>/publication/2021_book_springer/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_springer/</guid>
+      <guid>/publication/2021_book_springer/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Two-level adaptive resource allocation for diverse safety message transmissions in vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_jiayin_icc_2021/</link>
+      <link>/publication/2021_jiayin_icc_2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_jiayin_icc_2021/</guid>
+      <guid>/publication/2021_jiayin_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -86,9 +86,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Cooperative edge-cloud caching for real-time sensing big data search in vehicular network</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingliu_icc_2021/</link>
+      <link>/publication/2021_mingliu_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingliu_icc_2021/</guid>
+      <guid>/publication/2021_mingliu_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -110,9 +110,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Load and mobility-aware cooperative content delivery in SAG integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</link>
+      <link>/publication/2021_huaqing_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</guid>
+      <guid>/publication/2021_huaqing_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -134,9 +134,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Multi-dimensional resource allocation for diverse safety message transmissions in vehicular network</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_icc_2021/</link>
+      <link>/publication/jiayin_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_icc_2021/</guid>
+      <guid>/publication/jiayin_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -158,9 +158,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Service-oriented dynamic resource slicing and optimization for space-air-ground integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</link>
+      <link>/publication/2021_feng_tits/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</guid>
+      <guid>/publication/2021_feng_tits/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -182,9 +182,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Optimal UAV caching and trajectory in aerial-assisted vehicular networks: A learning-based approach</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</link>
+      <link>/publication/whq_jsac_2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</guid>
+      <guid>/publication/whq_jsac_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -206,9 +206,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Space-air-ground integrated networks: review and prospect</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_xuemin4space/</link>
+      <link>/publication/2021_xuemin4space/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_xuemin4space/</guid>
+      <guid>/publication/2021_xuemin4space/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -230,9 +230,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Dynamic spectrum slicing and optimization in SAG integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</link>
+      <link>/publication/feng_vtcfall_2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</guid>
+      <guid>/publication/feng_vtcfall_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -254,9 +254,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Cooperative edge caching with location-based and popular contents for vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_tvt_2020/</link>
+      <link>/publication/jiayin_tvt_2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/jiayin_tvt_2020/</guid>
+      <guid>/publication/jiayin_tvt_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -278,9 +278,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Joint caching and trajectory design for cache-enabled UAV in vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</link>
+      <link>/publication/whq_wcsp_2019/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</guid>
+      <guid>/publication/whq_wcsp_2019/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -302,9 +302,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Pilot spoofing attack detection and downlink precoding in massive MIMO systems</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</link>
+      <link>/publication/wang2019pilot/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</guid>
+      <guid>/publication/wang2019pilot/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -326,9 +326,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Online UAV scheduling towards throughput QoS guarantee for dynamic IoVs</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</link>
+      <link>/publication/feng_icc_2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</guid>
+      <guid>/publication/feng_icc_2019/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -350,9 +350,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Intelligent link adaptation in 802.11 vehicular networks: Challenges and solutions</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/xu2019intelligent/</link>
+      <link>/publication/xu2019intelligent/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/xu2019intelligent/</guid>
+      <guid>/publication/xu2019intelligent/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

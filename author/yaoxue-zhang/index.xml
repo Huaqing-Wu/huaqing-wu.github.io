@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yaoxue Zhang | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/yaoxue-zhang/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/yaoxue-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/yaoxue-zhang/</link>
+      <atom:link href="/author/yaoxue-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yaoxue Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_3.png</url>
       <title>Yaoxue Zhang</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/yaoxue-zhang/</link>
+      <link>/author/yaoxue-zhang/</link>
     </image>
     
     <item>
       <title>AUCTION: Automated and quality-aware client selection framework for efficient federated learning</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_yongheng_tpds/</link>
+      <link>/publication/2021_yongheng_tpds/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_yongheng_tpds/</guid>
+      <guid>/publication/2021_yongheng_tpds/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Service-oriented dynamic resource slicing and optimization for space-air-ground integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</link>
+      <link>/publication/2021_feng_tits/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_feng_tits/</guid>
+      <guid>/publication/2021_feng_tits/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Dynamic spectrum slicing and optimization in SAG integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</link>
+      <link>/publication/feng_vtcfall_2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_vtcfall_2020/</guid>
+      <guid>/publication/feng_vtcfall_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dongxiao Liu | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/dongxiao-liu/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/dongxiao-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/dongxiao-liu/</link>
+      <atom:link href="/author/dongxiao-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongxiao Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_3.png</url>
       <title>Dongxiao Liu</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/dongxiao-liu/</link>
+      <link>/author/dongxiao-liu/</link>
     </image>
     
     <item>
       <title>Efficient and anonymous authentication with succinct multi-subscription credential in SAGVN</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_dongxiao_tits/</link>
+      <link>/publication/2021_dongxiao_tits/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_dongxiao_tits/</guid>
+      <guid>/publication/2021_dongxiao_tits/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

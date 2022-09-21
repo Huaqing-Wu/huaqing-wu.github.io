@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wen Wu | Huaqing Wu&#39;s Homepage</title>
-    <link>https://ece.uwaterloo.ca/~h272wu/author/wen-wu/</link>
-      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/wen-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/wen-wu/</link>
+      <atom:link href="/author/wen-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Wen Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_3.png</url>
       <title>Wen Wu</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/author/wen-wu/</link>
+      <link>/author/wen-wu/</link>
     </image>
     
     <item>
       <title>Adaptive access mode selection in space-ground integrated vehicular networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</link>
+      <link>/publication/2021_conghao_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</guid>
+      <guid>/publication/2021_conghao_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>AI-native network slicing for 6G networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</link>
+      <link>/publication/2021_wen_wcm/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_wen_wcm/</guid>
+      <guid>/publication/2021_wen_wcm/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Joint cache placement and cooperative multicast beamforming in integrated satellite-terrestrial networks</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_dairu_iot/</link>
+      <link>/publication/2021_dairu_iot/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_dairu_iot/</guid>
+      <guid>/publication/2021_dairu_iot/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -86,9 +86,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Online UAV scheduling towards throughput QoS guarantee for dynamic IoVs</title>
-      <link>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</link>
+      <link>/publication/feng_icc_2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ece.uwaterloo.ca/~h272wu/publication/feng_icc_2019/</guid>
+      <guid>/publication/feng_icc_2019/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
