@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Wang | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/li-wang/</link>
-      <atom:link href="/author/li-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/li-wang/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/li-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>Li Wang</title>
-      <link>/author/li-wang/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/li-wang/</link>
     </image>
     
     <item>
       <title>Social Networking-Driven Caching</title>
-      <link>/publication/2021_book_chapter/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_chapter/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_book_chapter/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_book_chapter/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Load and mobility-aware cooperative content delivery in SAG integrated vehicular networks</title>
-      <link>/publication/2021_huaqing_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_huaqing_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_huaqing_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Optimal UAV caching and trajectory in aerial-assisted vehicular networks: A learning-based approach</title>
-      <link>/publication/whq_jsac_2020/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_jsac_2020/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -86,9 +86,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Delay-minimized edge caching in heterogeneous vehicular networks: A matching-based approach</title>
-      <link>/publication/whq_twc_2020/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_twc_2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_twc_2020/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_twc_2020/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -110,9 +110,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Joint caching and trajectory design for cache-enabled UAV in vehicular networks</title>
-      <link>/publication/whq_wcsp_2019/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_wcsp_2019/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_wcsp_2019/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -134,9 +134,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Matching-based content caching in heterogeneous vehicular networks</title>
-      <link>/publication/whq_globecom2018/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2018/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_globecom2018/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2018/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -158,9 +158,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Tradeoff of content sharing efficiency and secure transmission in coded caching systems</title>
-      <link>/publication/whq_icc2018/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2018/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2018/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -182,9 +182,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Multi-hop cooperative caching in social IoT using matching theory</title>
-      <link>/publication/whq_twc_2017/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_twc_2017/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_twc_2017/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_twc_2017/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -206,9 +206,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Dynamic resource matching for socially cooperative caching in IoT networking</title>
-      <link>/publication/whq_globecom2017/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_globecom2017/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2017/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -230,9 +230,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Wireless Distributed Storage Systems based on Multi-hop Cooperation</title>
-      <link>/publication/cn107155197a/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn107155197a/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/cn107155197a/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn107155197a/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -254,9 +254,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Cooperative jamming aided secrecy enhancement in P2P communications with social interaction constraints</title>
-      <link>/publication/whq_tvt_security/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_tvt_security/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_tvt_security/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_tvt_security/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -278,9 +278,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource allocation for D2D communications underlay in Rayleigh fading channels</title>
-      <link>/publication/whq_tvt_fading/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_tvt_fading/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_tvt_fading/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_tvt_fading/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -302,9 +302,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>A Matching-Based Method for Resource Sharing</title>
-      <link>/publication/cn106162887b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn106162887b/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cn106162887b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn106162887b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -326,9 +326,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>D2D-Assisted Inter-Cluster Communication Methods</title>
-      <link>/publication/cn105992124b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cn105992124b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -350,9 +350,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Hypergraph based three-dimensional matching in wireless distributed storage over D2D links</title>
-      <link>/publication/whq_dsp2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_dsp2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_dsp2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_dsp2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -374,9 +374,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Hypergraph based wireless distributed storage optimization for cellular D2D underlays</title>
-      <link>/publication/whq_jsac_2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_jsac_2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_jsac_2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -398,9 +398,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Performance analysis for wireless distributed storage via D2D links</title>
-      <link>/publication/whq_vtcfall2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcfall2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_vtcfall2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcfall2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -422,9 +422,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource allocation for wireless caching in socially-enabled D2D communications</title>
-      <link>/publication/whq_icc2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -446,9 +446,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource allocation with cooperative jamming in socially interactive secure D2D underlay</title>
-      <link>/publication/whq_vtcspring2016/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcspring2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_vtcspring2016/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_vtcspring2016/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -470,9 +470,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Wireless distributed storage in socially enabled D2D communications</title>
-      <link>/publication/whq_ieee_access/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_ieee_access/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_ieee_access/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_ieee_access/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -494,9 +494,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Secrecy-oriented resource sharing for cellular device-to-device underlay</title>
-      <link>/publication/whq_globecom2015/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_globecom2015/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_globecom2015/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -518,9 +518,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Socially enabled wireless networks: resource allocation via bipartite graph matching</title>
-      <link>/publication/whq_magazine/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_magazine/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_magazine/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_magazine/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -542,9 +542,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>An Incentive Mechanism for Cooperative Jamming to Realize Physical Layer Security</title>
-      <link>/publication/cn104918238b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn104918238b/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/cn104918238b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn104918238b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -566,9 +566,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Secrecy-oriented partner selection based on social trust in device-to-device communications</title>
-      <link>/publication/whq_icc2015/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_icc2015/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_icc2015/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -590,9 +590,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Secure inter-cluster communications with socially interactive jamming cooperative against outcast</title>
-      <link>/publication/whq_comcom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_comcom/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_comcom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_comcom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -614,9 +614,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource Allocation Methods for Spectrum Sharing between D2D Links and Cellular Users</title>
-      <link>/publication/cn104254130b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn104254130b/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/cn104254130b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn104254130b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

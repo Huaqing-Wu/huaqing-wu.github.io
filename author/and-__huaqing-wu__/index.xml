@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and __Huaqing Wu__ | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/and-__huaqing-wu__/</link>
-      <atom:link href="/author/and-__huaqing-wu__/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/and-__huaqing-wu__/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/and-__huaqing-wu__/index.xml" rel="self" type="application/rss+xml" />
     <description>and __Huaqing Wu__</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>and __Huaqing Wu__</title>
-      <link>/author/and-__huaqing-wu__/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/and-__huaqing-wu__/</link>
     </image>
     
     <item>
       <title>D2D-Assisted Inter-Cluster Communication Methods</title>
-      <link>/publication/cn105992124b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cn105992124b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Secure inter-cluster communications with socially interactive jamming cooperative against outcast</title>
-      <link>/publication/whq_comcom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_comcom/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_comcom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_comcom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Quan | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/wei-quan/</link>
-      <atom:link href="/author/wei-quan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/wei-quan/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/wei-quan/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Quan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Quan</title>
-      <link>/author/wei-quan/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/wei-quan/</link>
     </image>
     
     <item>
       <title>Space-air-ground integrated networks: review and prospect</title>
-      <link>/publication/2021_xuemin4space/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_xuemin4space/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_xuemin4space/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_xuemin4space/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>A comprehensive simulation platform for space-air-ground integrated network</title>
-      <link>/publication/cheng2020comprehensive/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cheng2020comprehensive/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cheng2020comprehensive/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cheng2020comprehensive/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

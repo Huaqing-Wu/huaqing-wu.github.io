@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Wang | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/wei-wang/</link>
-      <atom:link href="/author/wei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/wei-wang/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/wei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Wang</title>
-      <link>/author/wei-wang/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/wei-wang/</link>
     </image>
     
     <item>
       <title>Pilot spoofing attack detection and downlink precoding in massive MIMO systems</title>
-      <link>/publication/wang2019pilot/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wang2019pilot/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/wang2019pilot/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Socially enabled wireless networks: resource allocation via bipartite graph matching</title>
-      <link>/publication/whq_magazine/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/whq_magazine/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/whq_magazine/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/whq_magazine/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

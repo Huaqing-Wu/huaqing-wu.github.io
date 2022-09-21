@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zan Li | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/zan-li/</link>
-      <atom:link href="/author/zan-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/zan-li/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/zan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zan Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>Zan Li</title>
-      <link>/author/zan-li/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/zan-li/</link>
     </image>
     
     <item>
       <title>Dynamic spectrum control-assisted secure and efficient transmission scheme in heterogeneous cellular network</title>
-      <link>/publication/2021_chenxi_engineering/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_engineering/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_chenxi_engineering/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_engineering/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Throughput analysis with dynamic spectrum access control in space-air-ground integrated network</title>
-      <link>/publication/2021_chenxi_icc_2021/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_icc_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_chenxi_icc_2021/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_chenxi_icc_2021/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

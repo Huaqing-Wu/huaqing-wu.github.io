@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingcheng He | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/mingcheng-he/</link>
-      <atom:link href="/author/mingcheng-he/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/mingcheng-he/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/mingcheng-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingcheng He</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>Mingcheng He</title>
-      <link>/author/mingcheng-he/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/mingcheng-he/</link>
     </image>
     
     <item>
       <title>Adaptive access mode selection in space-ground integrated vehicular networks</title>
-      <link>/publication/2021_conghao_globecom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_conghao_globecom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_conghao_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning-based cache placement and content delivery for satellite-terrestrial integrated networks</title>
-      <link>/publication/2021_mingcheng_globecom/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_mingcheng_globecom/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/2021_mingcheng_globecom/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

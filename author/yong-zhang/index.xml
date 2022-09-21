@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yong Zhang | Huaqing Wu&#39;s Homepage</title>
-    <link>/author/yong-zhang/</link>
-      <atom:link href="/author/yong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ece.uwaterloo.ca/~h272wu/author/yong-zhang/</link>
+      <atom:link href="https://ece.uwaterloo.ca/~h272wu/author/yong-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ece.uwaterloo.ca/~h272wu/images/icon_hu31b99b3f9712c2eb8db85d9d2f3de118_13456_512x512_fill_lanczos_center_2.png</url>
       <title>Yong Zhang</title>
-      <link>/author/yong-zhang/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/author/yong-zhang/</link>
     </image>
     
     <item>
       <title>D2D-Assisted Inter-Cluster Communication Methods</title>
-      <link>/publication/cn105992124b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cn105992124b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn105992124b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>An Incentive Mechanism for Cooperative Jamming to Realize Physical Layer Security</title>
-      <link>/publication/cn104918238b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn104918238b/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/cn104918238b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn104918238b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resource Allocation Methods for Spectrum Sharing between D2D Links and Cellular Users</title>
-      <link>/publication/cn104254130b/</link>
+      <link>https://ece.uwaterloo.ca/~h272wu/publication/cn104254130b/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/cn104254130b/</guid>
+      <guid>https://ece.uwaterloo.ca/~h272wu/publication/cn104254130b/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
